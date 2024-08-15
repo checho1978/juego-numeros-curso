@@ -58,7 +58,7 @@ function generarNumeroSecreto() {
             listaNumerosSorteados.push(numeroGenerado);
             return numeroGenerado;
         }
-   
+    }
 }
 
 function condicionesIniciales(){
